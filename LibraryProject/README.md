@@ -1,1 +1,1 @@
-my f task 
+my f task django
