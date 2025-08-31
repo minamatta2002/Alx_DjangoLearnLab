@@ -33,7 +33,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV /home/mina/Alx_DjangoLearnLab/advanced_features_and_security/venv
+set -gx VIRTUAL_ENV /home/mina/Alx_DjangoLearnLab/venv
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/"bin $PATH
